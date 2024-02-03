@@ -17,6 +17,9 @@ function onIconHover(ref: RefObject<HTMLDivElement>){
   }
 }
 
+/*
+    Adding new features
+*/
 
 function onIconHoverEnded(ref: RefObject<HTMLDivElement>){
   let element = ref.current as HTMLDivElement
