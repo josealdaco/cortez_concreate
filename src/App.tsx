@@ -209,7 +209,7 @@ function Footer(){
         <div className="d-flex align-items-stretch" style={{ backgroundColor: "#0a0d09", color: "white" }}>
              <div className="container h-100">
               <h4 className="display-7"><strong>Contact:</strong></h4>
-              <span><strong>Telephone:</strong> </span><a href="tel:+6697320066">(669)-732-0066</a><br/>
+              <span><strong>Telephone:</strong> </span><a href="tel:+669-732-0066">(669)-732-0066</a><br/>
               <span><strong>Email:</strong> </span><a href="mailto:salvadoraldacocortez@icloud.com">salvadoraldacocortez@icloud.com</a>
               </div>
         </div>
